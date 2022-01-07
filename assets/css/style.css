@@ -1,0 +1,166 @@
+
+  
+
+ 
+.break {
+    color: orange;
+}
+h1 {
+    margin: 0px;
+    width: 60%; 
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Arapey', serif;
+    padding-top: 120px;
+    padding-left: 120px;
+    letter-spacing: 1px;
+
+}
+.person-1 {
+    width: 100%;
+}
+.person-1 img {
+    width: 60%;
+    padding-left: 50px;
+    
+}
+    
+.top-bnr {
+    display: flex;
+}
+.person-1 p {
+    padding-left: 120px;
+    margin: 0px;
+    padding-top: 15px;
+}
+.person-1 button {
+   font-size: 12px;
+   background-color: tomato;
+   color: white;
+   margin-left: 120px;
+   margin-top: 20px;
+   padding: 10px 20px;
+   border: none;
+   border-radius: 3px;
+
+}
+.msn {
+    font-family: candara;
+    text-align: center;
+    margin-top: -80px;
+    padding-left: 200px;
+    color:#141313e1;
+}
+.content {
+    color: orange;
+}
+.container .banner {
+    display: flex;
+    margin: 40px 0px 0px 0px;
+}
+.container .banner img {
+    width: 130px;
+    height: 130px;
+}
+.container .banner .msn-cnt{
+    font-family: candara;
+    width: 33%;
+    background-color: #E6E6E6;
+    padding: 20px;
+    margin: 0px 30px 30px 30px;
+    border-radius: 20px;
+}
+.container .banner .vsn-cnt{
+    font-family: candara;
+    width: 33%;
+    background-color: #eb94cf;
+    padding: 20px;
+    margin: 0px 30px 30px 0px;
+    border-radius: 20px;
+}
+.container .banner .gls-cnt{
+    font-family: candara;
+    width: 33%;
+    background-color: #f59794;
+    padding: 30px;
+    margin: 0px 30px 30px 0px;
+    border-radius: 20px;
+}
+.coding-bnr .dev-pen {
+    display: flex;
+}
+.coding-bnr .dev-pen .code-pen img {
+    width: 60%;
+    margin-left: 120px;
+    margin-top: 80px;
+}
+.coding-bnr .dev-pen .site-bnr h1 {
+    font-family: candara;
+    padding-left: 0px;
+}
+.coding-bnr .dev-pen .site-bnr p{
+    font-family: candara;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+.coding-bnr .dev-pen .site-bnr button{
+    font-family: candara;
+    font-size: 14px;
+    color: #fff;
+    font-weight: normal;
+    background-color: tomato;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.nav-topic .nav-bar .last-topic{
+   padding-left: 120px;
+   margin-top: 80px;
+   font-family: candara;
+}
+
+.nav-topic .nav-bar .last-topic h2{
+    width: 50%;
+    font-family: candara;
+    font-weight: bolder;
+}
+.nav-topic .nav-bar .last-topic button {
+    font-family: candara;
+    font-size: 14px;
+    color: #fff;
+    font-weight: normal;
+    background-color: tomato;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.nav-topic .nav-bar {
+    display: flex;
+    width: 100%;
+}
+.nav-topic .nav-bar .project img {
+    width: 55%;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.footer .ftr-stn {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.904);
+    color: white;
+    margin-top: 60px;
+}
+.footer .ftr-stn h1 {
+    margin-left: 85px;
+}
+
+.footer .ftr-stn .clr {
+    color: tomato;
+}
+.footer .ftr-stn p{
+    font-family: candara;
+    font-size: 14px;
+}
+
+
+
+
